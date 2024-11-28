@@ -247,7 +247,7 @@
 								<a href="index.php"><img src="assets/img/logo/logo2.png" alt="images"></a>
 							</div>
 						</div>
-						<div class="col-md-2">
+						<!-- <div class="col-md-2">
 							<div class="widget widget-link widget-footer">
 								<h4 class="widget-title">About</h4>
 								<ul class="widget-list">
@@ -258,7 +258,7 @@
 									<li><a href="our-menu.php">Food Lists</a></li>
 								</ul>
 							</div>														
-						</div>
+						</div> -->
 						<div class="col-md-2">
 							<div class="widget widget-link widget-Facilities widget-footer">
 								<h4 class="widget-title">Facilities</h4>
